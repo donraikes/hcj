@@ -20,6 +20,10 @@ h2	{
 	margin-right: 5px;
 	margin-top: 5px;
 	margin-bottom: 5px;
+	width:	25%;
+	position:	relative;
+	left:	75%;
+	top:	0%;
 }
 
 p {
@@ -38,7 +42,7 @@ section	{
 }
 
 #hdr2	{
-	background-color:	#00FF00;
+	background-color:	#8b4513;
 	color:	#FFFFFF;
 }
 
