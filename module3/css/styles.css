@@ -1,0 +1,25 @@
+body	{
+	color:	black;
+	background-color:	white;
+}
+
+header	{
+	background-color:	#D3D3D3;
+}
+
+h1	{
+	font-size:	2em;
+}
+
+h2	{
+	font-size:	1.5em;
+}
+
+h3	{
+	font-size:	1.25em;
+}
+#mainsection	{
+		background-color:	#D3D3D3;
+		margin:	1px,solid,black;
+		height:	1000px;
+}
