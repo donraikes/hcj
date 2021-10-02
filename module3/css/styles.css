@@ -13,7 +13,7 @@ h2	{
 
 #mainsection	{
 		background-color:	#D3D3D3;
-		margin:	1px,solid,black;
+		border:	1px,solid,black;
 		height:	1000px;
 }
 
@@ -24,6 +24,7 @@ h2	{
 #nav-list a {
   text-align: center;
   color:	black;
+  background-color:	#D3D3D3;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
