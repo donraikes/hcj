@@ -29,8 +29,6 @@ h2	{
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 3px solid black;
-}
-.navbar-header button.navbar-toggle {
   margin-top: -50px;
   clear:	both;
 }
