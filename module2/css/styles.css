@@ -18,10 +18,8 @@ h2	{
 	border-style: 1px,solid,black;
 	margin-top:	0px;
 	margin-left: 5px;
-	margin-right: 5px;
+	margin-right: 0px;
 	margin-bottom: 5px;
-	position:	relative;
-	top:	0%;
 }
 
 p {
@@ -97,16 +95,22 @@ p {
   }
 #hdr1	{
 	width:	25%;
+	position:	relative;
+	top:	0%;
 	left:	75%;
 }
 
 #hdr2 	{
 	width:	25%;
+	position:	relative;
+	top:	0%;
 	left:	75%;
 }
 
 #hdr3	{
 	width:	25%;
+	position:	relative;
+	top:	0%;
 	left:	75%;
 }
 }
@@ -154,18 +158,24 @@ p {
     width: 100%;
   }
 #hdr1	{
-	width:	10%;
-	left:	90%;
+	width:	25%;
+	position:	relative;
+	top:	0%;
+	left:	75%;
 }
 
-#hdr2	{
-	width:	10%;
-	left:	90%;
+#hdr2 	{
+	width:	25%;
+	position:	relative;
+	top:	0%;
+	left:	75%;
 }
 
 #hdr3	{
-	width:	5%;
-	left:	95%;
+	width:	25%;
+	position:	relative;
+	top:	0%;
+	left:	75%;
 }
 }
 
@@ -211,18 +221,24 @@ p {
   .col-sm-12 {
     width: 100%;
   }
-  #hdr1	{
-  	width:	5%;
-	left:	95%;
-  }
+#hdr1	{
+	width:	25%;
+	position:	relative;
+	top:	0%;
+	left:	75%;
+}
 
-  #hdr2	{
-  	width:	5%;
-	left:	95%;
-  }
+#hdr2 	{
+	width:	25%;
+	position:	relative;
+	top:	0%;
+	left:	75%;
+}
 
-  #hdr3	{
-  	width:	5%;
-	left:	95%;
-  }
+#hdr3	{
+	width:	25%;
+	position:	relative;
+	top:	0%;
+	left:	75%;
+}
 }
