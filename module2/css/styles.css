@@ -16,6 +16,8 @@ h1 {
 h2	{
 	font-size: 125%;
 	border-style: 1px,solid,black;
+	border-top:	0px;
+	border-right:	0px;
 	margin-top:	0px;
 	margin-left: 5px;
 	margin-right: 0px;
@@ -35,16 +37,28 @@ p {
 #hdr1	{
 	background-color:	#FF00FF;
 	color:	#FFFFFF
+	position:	relative;
+	top:	0;
+	left:	75%;
+	width:	25%;
 }
 
 #hdr2	{
 	background-color:	#8b4513;
 	color:	#FFFFFF;
+	position:	relative;
+	top:	0;
+	left:	75%;
+	width:	25%;
 }
 
 #hdr3	{
 	background-color:	#87CEEB;
 	color:	#FFFFFF;
+	position:	relative;
+	top:	0;
+	left:	75%;
+	width:	25%;
 }
 /* Simple Responsive Framework. */
 .row {
@@ -93,26 +107,6 @@ p {
   .col-lg-12 {
     width: 100%;
   }
-#hdr1	{
-	width:	25%;
-	position:	relative;
-	top:	0%;
-	left:	75%;
-}
-
-#hdr2 	{
-	width:	25%;
-	position:	relative;
-	top:	0%;
-	left:	75%;
-}
-
-#hdr3	{
-	width:	25%;
-	position:	relative;
-	top:	0%;
-	left:	75%;
-}
 }
 
 /********** tablet devices only **********/
@@ -157,25 +151,12 @@ p {
   .col-md-12 {
     width: 100%;
   }
-#hdr1	{
-	width:	25%;
-	position:	relative;
-	top:	0%;
-	left:	75%;
-}
-
-#hdr2 	{
-	width:	25%;
-	position:	relative;
-	top:	0%;
-	left:	75%;
-}
 
 #hdr3	{
-	width:	25%;
+	width:	12.5%;
 	position:	relative;
-	top:	0%;
-	left:	75%;
+	top:	0;
+	left:	87.5%;
 }
 }
 
@@ -221,24 +202,4 @@ p {
   .col-sm-12 {
     width: 100%;
   }
-#hdr1	{
-	width:	25%;
-	position:	relative;
-	top:	0%;
-	left:	75%;
-}
-
-#hdr2 	{
-	width:	25%;
-	position:	relative;
-	top:	0%;
-	left:	75%;
-}
-
-#hdr3	{
-	width:	25%;
-	position:	relative;
-	top:	0%;
-	left:	75%;
-}
 }
