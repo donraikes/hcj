@@ -3,8 +3,7 @@ body	{
 	background-color:	white;
 }
 
-#nav-header {
-	background-color:	#D3D3D3;
+
 }
 
 
@@ -30,9 +29,6 @@ h2	{
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid black;
 }
-/*
 .navbar-header button.navbar-toggle {
-  clear: both;
   margin-top: -30px;
 }
-*/

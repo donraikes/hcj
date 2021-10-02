@@ -15,12 +15,12 @@ h1 {
 
 h2	{
 	font-size: 125%;
-	border-style: 1px, solid, black;
+	border-style: 1px,solid,black;
+	margin-top:	0px;
 	margin-left: 5px;
 	margin-right: 5px;
 	margin-bottom: 5px;
 	position:	relative;
-	left:	75%;
 	top:	0%;
 }
 
@@ -97,14 +97,17 @@ p {
   }
 #hdr1	{
 	width:	25%;
+	left:	75%;
 }
 
 #hdr2 	{
 	width:	25%;
+	left:	75%;
 }
 
 #hdr3	{
 	width:	25%;
+	left:	75%;
 }
 }
 
@@ -152,14 +155,17 @@ p {
   }
 #hdr1	{
 	width:	10%;
+	left:	90%;
 }
 
 #hdr2	{
 	width:	10%;
+	left:	90%;
 }
 
 #hdr3	{
 	width:	5%;
+	left:	95%;
 }
 }
 
@@ -207,13 +213,16 @@ p {
   }
   #hdr1	{
   	width:	5%;
+	left:	95%;
   }
 
   #hdr2	{
   	width:	5%;
+	left:	95%;
   }
 
   #hdr3	{
   	width:	5%;
+	left:	95%;
   }
 }
