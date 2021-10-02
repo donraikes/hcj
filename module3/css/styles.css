@@ -1,34 +1,18 @@
 body	{
-	color:	black;
 	background-color:	white;
+	color:	black;
 }
 
-
+#header-nav, #mainsection 	{
+	background-color:	#D3D3D3;
 }
 
-
-h2	{
-	margin-bottom:	25px;
+#nav-list > li > a {
+	color:	black;
 }
 
-#mainsection	{
-		background-color:	#D3D3D3;
-		border:	1px,solid,black;
-		height:	1000px;
-}
-
-
-#nav-list {
-  margin-top: 10px;
-}
-#nav-list a {
-  text-align: center;
-  color:	black;
-  background-color:	#D3D3D3;
-}
-
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 3px solid black;
-  margin-top: -50px;
-  clear:	both;
+button.navbar-toggle {
+	border:	3px,solid,black;
+	margin-top:	-50px;
+	clear:	both;
 }
