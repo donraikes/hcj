@@ -31,7 +31,7 @@ p {
 #sec1, #sec2, #sec3  {
 	background-color:	#D3D3D3;
 	border:	1px, solid, black;
-	padding:	20px;
+	margin:	20px,solid,white;
 }
 
 #hdr1	{
